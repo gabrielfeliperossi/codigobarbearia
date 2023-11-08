@@ -4,7 +4,11 @@ body {
     background: #43c423
 }
 
-h1 {
+#banner {
+    width: 100%
+}  
+
+    h1 {
     text-align: center
 }
 p {
